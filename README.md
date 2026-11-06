@@ -42,7 +42,7 @@ Está procurando uma solução digital para sua empresa?
 
 Entre em contato conosco e solicite um orçamento.
 
-- **Instagram:** [@SEU_INSTAGRAM](https://instagram.com/nhtech_ofc)
+- **Instagram:** [@nhtech_ofc](https://instagram.com/nhtech_ofc)
 - **WhatsApp:** [Solicite um orçamento](https://wa.me/44998840465)
 - **GitHub:** [NH Tech](https://github.com/NatanSiqueiraa)
 
